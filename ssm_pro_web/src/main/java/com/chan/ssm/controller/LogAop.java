@@ -17,6 +17,10 @@ import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Method;
 import java.util.Date;
 
+/**
+ * 使用 AOP 得到用户访问页面的日志,存入数据库,供使用
+ * 有bug,反射拿不到相关信息
+ */
 // @Aspect
 @Component
 public class LogAop {

@@ -10,7 +10,7 @@
         <module name="ssm_pro_domain" />
         <module name="ssm_pro_service" />
         <module name="ssm_pro_dao" />
-        <module name="ssm_pro_utils" />
+        <module name="ssm_pro_util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />

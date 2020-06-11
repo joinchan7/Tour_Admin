@@ -9,8 +9,8 @@
     <file url="file://$PROJECT_DIR$/ssm_pro_domain/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm_pro_service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm_pro_service/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ssm_pro_utils/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ssm_pro_utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_pro_util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_pro_util/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm_pro_web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm_pro_web/src/main/resources" charset="UTF-8" />
   </component>

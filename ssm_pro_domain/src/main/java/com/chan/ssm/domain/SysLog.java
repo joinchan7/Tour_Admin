@@ -1,11 +1,16 @@
 package com.chan.ssm.domain;
 
+import com.chan.ssm.utils.DateUtils;
+import org.springframework.format.annotation.DateTimeFormat;
+
 import java.io.Serializable;
 import java.util.Date;
 
 public class SysLog implements Serializable {
 
     private String id;
+
+    @DateTimeFormat(pattern = "yyyy-MM-dd HH:mm")
     private Date visitTime;
     private String visitTimeStr;
     private String username;
@@ -31,6 +36,9 @@ public class SysLog implements Serializable {
     }
 
     public String getVisitTimeStr() {
+        if (visitTime != null) {
+            visitTimeStr = DateUtils.date2String(visitTime, "yyyy-MM-dd HH:mm:ss");
+        }
         return visitTimeStr;
     }
 

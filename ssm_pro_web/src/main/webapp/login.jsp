@@ -24,7 +24,9 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="index.jsp" style="font-size: 32px"><b>Admin</b>后台管理系统</a>
+        <a href="index.jsp" style="font-size: 32px"><b>Tour_Admin</b><br>
+            后台管理系统
+        </a>
     </div>
     <!-- /.login-logo -->
     <div class="login-box-body">

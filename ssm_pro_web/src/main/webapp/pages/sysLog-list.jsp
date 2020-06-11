@@ -320,15 +320,6 @@
         location.href = "sysLogs?page=${pageInfo.pageNum}&size=" + pageSize;
     }
 
-    function changePageSize() {
-        //获取下拉框的值
-        const pageSize = $("#changePageSize").val();
-
-        //向服务器发送请求，改变没页显示条数
-        location.href = "${pageContext.request.contextPath}/sysLog/findAll.do?page=${pageInfo.pageNum}&size=" + pageSize;
-        $("#changePageSize").val(${pageInfo.pageSize});
-    }
-
     $(document).ready(function () {
         // 选择框
         $(".select2").select2();
