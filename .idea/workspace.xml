@@ -6,19 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13fa5490-e67f-43e8-b2e9-b24c2d3cf9de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_domain/src/main/java/com/chan/ssm/domain/SysLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_domain/src/main/java/com/chan/ssm/domain/SysLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_util/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_utils/src/main/java/com/chan/ssm/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_util/src/main/java/com/chan/ssm/utils/DateUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_utils/src/main/java/com/chan/ssm/utils/IdUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_util/src/main/java/com/chan/ssm/utils/IdUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_utils/src/test/java/com/chan/test/BC.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_util/src/test/java/com/chan/test/BC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_web/src/main/java/com/chan/ssm/controller/LogAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_web/src/main/java/com/chan/ssm/controller/LogAop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_web/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_web/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_web/src/main/webapp/pages/sysLog-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_pro_web/src/main/webapp/pages/sysLog-list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm_pro_web/ssm_pro_web.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="13fa5490-e67f-43e8-b2e9-b24c2d3cf9de" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,6 +282,7 @@
       <workItem from="1591866117282" duration="3077000" />
       <workItem from="1591882422038" duration="3804000" />
       <workItem from="1591890512219" duration="75000" />
+      <workItem from="1591959103132" duration="5000" />
     </task>
     <servers />
   </component>
