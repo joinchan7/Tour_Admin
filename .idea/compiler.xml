@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ssm_pro_util" />
         <module name="ssm_pro_dao" />
         <module name="ssm_pro_domain" />
         <module name="ssm_pro_web" />
         <module name="ssm_pro_service" />
-        <module name="ssm_pro_util" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="ssm_pro_utils" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

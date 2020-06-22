@@ -11,11 +11,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_pro_util/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/ssm_pro_util/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_pro_utils/pom.xml" />
       </set>
     </option>
   </component>
