@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13fa5490-e67f-43e8-b2e9-b24c2d3cf9de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/ssm.sql" afterDir="false" />
-    </list>
+    <list default="true" id="13fa5490-e67f-43e8-b2e9-b24c2d3cf9de" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -345,6 +342,7 @@
       <workItem from="1592740987380" duration="744000" />
       <workItem from="1592815214522" duration="633000" />
       <workItem from="1592891326232" duration="310000" />
+      <workItem from="1592891950342" duration="12000" />
     </task>
     <servers />
   </component>
