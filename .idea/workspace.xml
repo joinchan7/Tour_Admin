@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13fa5490-e67f-43e8-b2e9-b24c2d3cf9de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ssm_pro_util/ssm_pro_util.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/ssm.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ssm_pro_util/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ssm_pro_util/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sql" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -83,11 +84,11 @@
       <recent name="java.com.chan.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitHub\Tour_Admin\sql" />
       <recent name="D:\gitHub\Tour_Admin\ssm_pro_util\src\test" />
       <recent name="D:\gitHub\Tour_Admin\ssm_pro_util\src\main" />
       <recent name="D:\spring_demo\ssm_pro\ssm_pro_web\src\main\webapp\pages" />
       <recent name="D:\spring_demo\ssm_pro\ssm_pro_web\src\main\webapp" />
-      <recent name="D:\spring_demo\ssm_pro\ssm_pro_web\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.tomcat">
@@ -343,6 +344,7 @@
       <workItem from="1592738217569" duration="45000" />
       <workItem from="1592740987380" duration="744000" />
       <workItem from="1592815214522" duration="633000" />
+      <workItem from="1592891326232" duration="310000" />
     </task>
     <servers />
   </component>
@@ -519,10 +521,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="497" y="168" key="refactoring.ChangeSignatureDialog/0.0.1536.824/-1600.0.1600.860@0.0.1536.824" timestamp="1590848251405" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590139770168">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592891622485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1600.0.1600.860@0.0.1536.824" timestamp="1590139770168" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1600.0.1600.860@0.0.1536.824" timestamp="1592891622485" />
     <state x="449" y="95" key="spring file set editor" timestamp="1590074920747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
